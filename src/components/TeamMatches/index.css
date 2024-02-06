@@ -1,0 +1,19 @@
+.team-matches-container {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  padding: 45px 24px;
+}
+.team-banner {
+  width: 100%;
+  margin-bottom: 24px;
+}
+.latest-matches-text {
+  font-size: 18px;
+  font-weight: 500;
+}
+.match-cards-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}

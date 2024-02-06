@@ -1,0 +1,24 @@
+.link-card {
+  text-decoration: none;
+  color: inherit;
+}
+.team-card {
+  width: 40vw;
+  height: 160px;
+  max-width: 40vw;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  background-color: #ffffff33;
+  border-radius: 8px;
+  margin: 10px 6px;
+  cursor: pointer;
+  border: solid 1px white;
+}
+.team-card-img {
+  width: 80px;
+  margin-right: 12px;
+}
+.team-name {
+  font-size: 28px;
+}

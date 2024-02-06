@@ -1,0 +1,27 @@
+.home-container {
+  width: 100%;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  font-family: 'Bree Serif';
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.teams-container {
+  padding-left: 0px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.ipl-logo {
+  width: 45px;
+  margin-right: 24px;
+}
+.main-heading {
+  font-size: 45px;
+  color: white;
+}
